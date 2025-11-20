@@ -135,6 +135,23 @@ O arquivo `professionals.json` contém 60 perfis fictícios estruturados com:
 - Soft skills (3 por profissional)
 - Hobbies e interesses (3 por profissional)
 
+## Versionamento
+
+### Repositório no GitHub
+
+**Link do Repositório**: https://github.com/MagnoGh/sprintamem.git
+
+O projeto foi versionado com pelo menos 10 commits que documentam:
+- Configuração inicial do projeto
+- Implementação do design system
+- Criação dos componentes principais
+- Desenvolvimento do sistema de filtros
+- Implementação do dark mode
+- Adição dos dados JSON
+- Ajustes de responsividade
+- Refinamentos de UX
+- Otimizações de performance
+- Documentação final
 
 ## Integrantes do Grupo
 - Mikael de Albuquerque Santana RM 566507
