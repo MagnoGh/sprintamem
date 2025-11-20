@@ -1,5 +1,11 @@
 # HyoTechConnect - Rede Profissional do Futuro
 
+## Integrantes do Grupo
+- Mikael de Albuquerque Santana RM 566507
+- Felipe Ramalho Junqueira Berto RM: 562148
+- Otávio Magno RM: 566149 
+
+
 ## Resumo do Projeto
 
 TechConnect é uma plataforma web interativa desenvolvida como parte da Global Solution sobre "O Futuro do Trabalho". A aplicação simula uma rede profissional moderna, conectando talentos de diversas áreas e promovendo colaboração, desenvolvimento de competências e networking profissional.
@@ -152,11 +158,6 @@ O projeto foi versionado com pelo menos 10 commits que documentam:
 - Refinamentos de UX
 - Otimizações de performance
 - Documentação final
-
-## Integrantes do Grupo
-- Mikael de Albuquerque Santana RM 566507
-- Felipe Ramalho Junqueira Berto RM: 562148
-- Otávio Magno RM: 566149 
 
 ## Observações Importantes
 
