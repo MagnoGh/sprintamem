@@ -183,3 +183,5 @@ Possíveis expansões do projeto incluem:
 
 Este projeto foi desenvolvido para fins educacionais como parte da Global Solution da FIAP.
 
+
+# Que todos tenham um ótimo final de ano!
