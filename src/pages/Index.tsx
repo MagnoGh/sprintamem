@@ -104,7 +104,7 @@ const Index = () => {
 
       <footer className="border-t mt-16 py-8">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p className="text-sm">© 2025 TechConnect - Conectando pessoas, competências e propósito</p>
+          <p className="text-sm">© 2025 HyoTechConnect - Conectando pessoas, competências e propósito</p>
         </div>
       </footer>
     </div>
